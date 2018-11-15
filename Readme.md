@@ -1,3 +1,18 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BaseTabHandlerDescendant.cs](./CS/XtraTabWithButtons/BaseTabHandlerDescendant.cs) (VB: [BaseTabHandlerDescendant.vb](./VB/XtraTabWithButtons/BaseTabHandlerDescendant.vb))
+* [Form1.cs](./CS/XtraTabWithButtons/Form1.cs) (VB: [Form1.vb](./VB/XtraTabWithButtons/Form1.vb))
+* [SkinTabPainterDescendant.cs](./CS/XtraTabWithButtons/Paint/SkinTabPainterDescendant.cs) (VB: [SkinTabPainterDescendant.vb](./VB/XtraTabWithButtons/Paint/SkinTabPainterDescendant.vb))
+* [Program.cs](./CS/XtraTabWithButtons/Program.cs) (VB: [Program.vb](./VB/XtraTabWithButtons/Program.vb))
+* [XtraTabPageCollectionDescendant.cs](./CS/XtraTabWithButtons/Tab/Page/XtraTabPageCollectionDescendant.cs) (VB: [XtraTabPageCollectionDescendant.vb](./VB/XtraTabWithButtons/Tab/Page/XtraTabPageCollectionDescendant.vb))
+* [XtraTabPageDescendant.cs](./CS/XtraTabWithButtons/Tab/Page/XtraTabPageDescendant.cs) (VB: [XtraTabPageDescendant.vb](./VB/XtraTabWithButtons/Tab/Page/XtraTabPageDescendant.vb))
+* [XtraTabControlDescendant.cs](./CS/XtraTabWithButtons/Tab/XtraTabControlDescendant.cs) (VB: [XtraTabControlDescendant.vb](./VB/XtraTabWithButtons/Tab/XtraTabControlDescendant.vb))
+* [BaseTabPageViewInfoDescendant.cs](./CS/XtraTabWithButtons/ViewInfo/BaseTabPageViewInfoDescendant.cs) (VB: [BaseTabPageViewInfoDescendant.vb](./VB/XtraTabWithButtons/ViewInfo/BaseTabPageViewInfoDescendant.vb))
+* [SkinViewInfoRegistratorDescendant.cs](./CS/XtraTabWithButtons/ViewInfo/Other/SkinViewInfoRegistratorDescendant.cs) (VB: [SkinViewInfoRegistratorDescendant.vb](./VB/XtraTabWithButtons/ViewInfo/Other/SkinViewInfoRegistratorDescendant.vb))
+* [SkinTabHeaderViewInfoDescendant.cs](./CS/XtraTabWithButtons/ViewInfo/SkinTabHeaderViewInfoDescendant.cs) (VB: [SkinTabHeaderViewInfoDescendant.vb](./VB/XtraTabWithButtons/ViewInfo/SkinTabHeaderViewInfoDescendant.vb))
+* [TabButtonsPanelDescendant.cs](./CS/XtraTabWithButtons/ViewInfo/TabButtonsPanelDescendant.cs) (VB: [TabButtonsPanelDescendant.vb](./VB/XtraTabWithButtons/ViewInfo/TabButtonsPanelDescendant.vb))
+<!-- default file list end -->
 # How to add custom buttons to tab page headers
 
 
